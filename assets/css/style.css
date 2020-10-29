@@ -13,6 +13,10 @@
     background: linear-gradient(77.35deg, #2A4AAF 11.33%, #A41EDF 73.71%);
 }
 
+.jumbotron-content {
+    padding-top: 95px;
+}
+
 .img-jumbotron {
     display: block;
     margin: auto;
