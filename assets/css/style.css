@@ -1,3 +1,8 @@
+/* Navbar */
+.nav-link {
+    color: white !important;
+}
+
 /* Jumbotron */
 .jumbotron-fluid {
     height: 500px;
