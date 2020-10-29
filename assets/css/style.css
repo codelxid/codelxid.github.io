@@ -1,0 +1,14 @@
+/* Jumbotron */
+.jumbotron-fluid {
+    height: 500px;
+    background: linear-gradient(90.61deg, #9907FE 0.49%, #3019A8 99.47%);
+}
+
+.img-jumbotron {
+    display: block;
+    margin: auto;
+    margin-top: -200px;
+    width: 600px;
+    object-fit: cover;
+    filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.25));
+}
