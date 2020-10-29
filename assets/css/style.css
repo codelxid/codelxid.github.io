@@ -1,4 +1,8 @@
 /* Navbar */
+.navbar {
+    background: linear-gradient(77.35deg, #2A4AAF 11.33%, #A41EDF 73.71%);
+}
+
 .nav-link {
     color: white !important;
 }
