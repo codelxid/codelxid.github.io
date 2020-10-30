@@ -20,15 +20,16 @@ body {
 }
 
 .btn-see-on-github {
-    background-color: #ec932d;
+    background-color: #F9C200;
     color: white;
     border: none;
     border-radius: 5px;
+    box-shadow: 0px 0px 7px #F9C200;
 }
 
 .btn-see-on-github:hover {
     color: white;
-    box-shadow: 0px 0px 5px #ec932d;
+    box-shadow: 0px 0px 15px #F9C200;
 
 }
 
