@@ -1,6 +1,14 @@
+body {
+    font-family: 'Source Sans Pro';
+}
+
 /* Navbar */
 .navbar-brand {
     width: 35px;
+}
+
+.navbrand-name {
+    font-weight: 600;
 }
 
 .nav-item {
@@ -34,6 +42,10 @@
 
 .jumbotron-content {
     padding-top: 95px;
+}
+
+.jumbotron-content h2 {
+    font-weight: 600;
 }
 
 .img-jumbotron {
