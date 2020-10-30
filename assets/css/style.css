@@ -1,9 +1,10 @@
 body {
-    font-family: 'Source Sans Pro';
+    font-family: 'Circular Std Book';
 }
 
 /* Navbar */
 .navbar-brand {
+    font-family: 'Source Sans Pro';
     width: 35px;
 }
 
@@ -46,6 +47,7 @@ body {
 }
 
 .jumbotron-content h2 {
+    font-family: 'Source Sans Pro';
     font-weight: 600;
 }
 
@@ -56,4 +58,17 @@ body {
     width: 600px;
     object-fit: cover;
     filter: drop-shadow(0px 4px 15px rgba(0, 0, 0, 0.25));
+}
+
+/* About */
+.about {
+    margin-top: -168px;
+    height: 500px;
+    background-color: #ecf2f7;
+}
+
+.heading-about {
+    font-family: 'Circular Std Bold';
+    padding-top: 225px;
+    color: #161c2d;
 }
