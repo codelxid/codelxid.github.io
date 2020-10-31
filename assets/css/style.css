@@ -21,6 +21,7 @@ body {
 }
 
 .btn-see-on-github {
+    display: inline-block;
     background-color: #F9C200;
     color: white;
     border: none;
@@ -31,6 +32,8 @@ body {
 .btn-see-on-github:hover {
     color: white;
     box-shadow: 0px 0px 15px #F9C200;
+    margin-bottom: -10px;
+    padding-bottom: -10px;
 
 }
 
@@ -71,4 +74,8 @@ body {
     font-family: 'Circular Std Bold';
     padding-top: 225px;
     color: #161c2d;
+}
+
+.about-content p {
+    color: #161c2db3;
 }
