@@ -18,6 +18,11 @@ body {
 
 .nav-link {
     color: white !important;
+    transition: 0.5s all;
+}
+
+.nav-link:hover {
+    color: #F9C200 !important;
 }
 
 .btn-see-on-github {
