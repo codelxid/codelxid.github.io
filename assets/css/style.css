@@ -1,6 +1,6 @@
 body {
-    /* font-family: 'Circular Std Book'; */
-    font-family: 'Source Sans Pro';
+    font-family: 'Circular Std Book';
+    /* font-family: 'Source Sans Pro'; */
 }
 
 /* Navbar */
@@ -75,8 +75,7 @@ body {
 }
 
 .heading-about {
-    /* font-family: 'Circular Std Bold'; */
-    font-family: 'Source Sans Pro';
+    font-family: 'Circular Std Bold';
     padding-top: 225px;
     color: #161c2d;
 }
