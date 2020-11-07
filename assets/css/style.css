@@ -91,3 +91,7 @@ body {
 .about-desc {
     padding-top: 57px;
 }
+
+.about-quote {
+    font-size: 16px;
+}
