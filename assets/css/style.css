@@ -3,6 +3,10 @@ body {
 }
 
 /* Navbar */
+.navbar {
+    margin-bottom: -65px;
+}
+
 .navbar-brand {
     font-family: 'Source Sans Pro';
     width: 35px;
@@ -17,7 +21,6 @@ body {
 }
 
 .nav-link {
-    color: white !important;
     transition: 0.5s all;
 }
 
