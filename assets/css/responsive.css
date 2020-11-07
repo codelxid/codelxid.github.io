@@ -7,8 +7,7 @@
         z-index: 999;
         left: 0px;
         padding: 0px 30px;
-        color: black;
-        background: rgb(255, 255, 255) none repeat scroll 0% 0%;
+        background: linear-gradient(107.54deg, #5330E1 0%, #9D38E5 120%);
     }
 }
 
