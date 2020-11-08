@@ -1,5 +1,6 @@
 body {
     font-family: 'Source Sans Pro';
+    background-color: #ecf2f7;
 }
 
 /* Navbar */
@@ -65,7 +66,7 @@ body {
 }
 
 .jumbotron-info-card {
-    margin-top: -65px;
+    margin-top: -87px;
 }
 
 .jumbotron-card {
