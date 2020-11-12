@@ -112,14 +112,15 @@ body {
 }
 
 /* Contact */
-.contact {
-    background-color: #fdfdff;
-}
-
 .heading-contact {
     padding-top: 50px;
 }
 
 .contact-icon {
+    font-size: 24px;
+}
+
+/* FAQ */
+.faq-icon {
     font-size: 24px;
 }
