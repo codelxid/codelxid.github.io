@@ -7,6 +7,18 @@ body {
     background-color: #ecf2f7;
 }
 
+
+.heading {
+    font-family: 'Source Sans Pro';
+    font-weight: 600;
+    padding-top: 225px;
+    color: #161c2d;
+}
+
+.heading-child {
+    color: #161c2db3;
+}
+
 /* Navbar */
 .navbar {
     margin-bottom: -65px;
@@ -81,13 +93,6 @@ body {
 .about {
     margin-top: -168px;
     background-color: #ecf2f7;
-}
-
-.heading-about {
-    font-family: 'Source Sans Pro';
-    font-weight: 600;
-    padding-top: 225px;
-    color: #161c2d;
 }
 
 .about-content p {
