@@ -112,6 +112,10 @@ body {
 }
 
 /* Contact */
+.contact {
+    background-color: #fdfdff;
+}
+
 .heading-contact {
     padding-top: 50px;
 }
