@@ -7,7 +7,6 @@ body {
     background-color: #ecf2f7;
 }
 
-
 .heading {
     font-family: 'Source Sans Pro';
     font-weight: 600;
@@ -21,8 +20,16 @@ body {
 /* Navbar */
 .navbar {
     margin-bottom: -65px;
-    position: relative;
-    z-index: 1;
+    /* z-index: 1; */
+}
+
+.nav-active {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.nav-item .active {
+    color: #F9C200 !important;
 }
 
 .navbar-brand {
@@ -40,7 +47,7 @@ body {
 
 .nav-link {
     transition: 0.5s all;
-    color: white !important;
+    color: #161c2db3 !important;
 }
 
 .nav-link:hover {
