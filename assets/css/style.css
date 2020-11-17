@@ -52,14 +52,18 @@ body {
 
 /* Jumbotron */
 .jumbotron {
-    height: 900px;
-    width: 100%;
-    background-color: teal;
+    height: 500px;
+    background-color: white;
 }
 
 .waves {
-    position: absolute;
     bottom: 0;
+    display: block;
+}
+
+.coding-svg {
+    position: absolute;
+    z-index: 1;
 }
 
 .test {
@@ -67,18 +71,10 @@ body {
     width: 100%;
 }
 
-.jumbotron-content {
-    padding-top: 45px;
-}
-
 .jumbotron-content h2 {
     font-family: 'Source Sans Pro';
     font-weight: 600;
-}
-
-.jumbotron-info-card {
-    margin-top: -450px;
-    position: relative;
+    color: #4E2BC5;
 }
 
 .jumbotron-card {
@@ -93,6 +89,10 @@ body {
 
 .heading-about {
     padding-top: 225px;
+}
+
+.coder {
+    margin-top: -70px;
 }
 
 .about-content p {

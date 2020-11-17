@@ -1,5 +1,14 @@
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+    .waves {
+        bottom: 0;
+        padding-top: 250px;
+        display: block;
+    }
+
+    .coding-svg {
+        padding-top: 100px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
