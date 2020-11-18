@@ -52,7 +52,7 @@ body {
 /* Jumbotron */
 .jumbotron {
     height: 100vh;
-    background-color: white;
+    background-color: #fafafa;
 }
 
 .jumbotron-content h2 {
