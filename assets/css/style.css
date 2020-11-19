@@ -55,10 +55,20 @@ body {
     background-color: #fafafa;
 }
 
-.jumbotron-content h2 {
+.jumbotron-content h1 {
     font-family: 'Source Sans Pro';
     font-weight: 600;
     color: #4E2BC5;
+}
+
+.jumbotron-content p {
+    color: #161c2db3;
+}
+
+.jumbotron-socmed-btn {
+    font-size: 20px;
+    padding-right: 7px;
+    color: #161c2d;
 }
 
 .jumbotron-card {
