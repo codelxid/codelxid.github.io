@@ -24,7 +24,7 @@ body {
 }
 
 .nav-item .active {
-    color: #F9C200 !important;
+    color: #ffc107!important;
 }
 
 .navbar-brand {
@@ -53,6 +53,11 @@ body {
 .jumbotron {
     height: 100vh;
     background-color: #fafafa;
+    color: #dfe0e0;
+    background-image: url('/assets/images/jumbotron/wave.svg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .jumbotron-content h1 {
@@ -63,6 +68,15 @@ body {
 
 .jumbotron-content p {
     color: #161c2db3;
+}
+
+.btn-discover-now:hover {
+    background-color: #ffc107 !important;
+    border: none;
+}
+
+.btn-discover-now:active {
+    background-color: #ffc107 !important;
 }
 
 .jumbotron-socmed-btn {
