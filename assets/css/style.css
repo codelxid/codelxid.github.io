@@ -109,7 +109,7 @@ body {
 
 /* Contact */
 .heading-contact {
-    padding-top: 50px;
+    padding-top: 65px;
 }
 
 .contact-icon {
@@ -117,6 +117,10 @@ body {
 }
 
 /* FAQ */
+.heading-faq {
+    padding-top: 65px;
+}
+
 .chevron-down-icon {
     font-size: 21px;
     padding-top: 1px;
@@ -124,4 +128,9 @@ body {
 
 .answer {
     padding-left: 34px;
+}
+
+/* Donation */
+.heading-donation {
+    padding-top: 65px;
 }
