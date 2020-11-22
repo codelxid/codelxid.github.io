@@ -134,3 +134,12 @@ body {
 .heading-donation {
     padding-top: 65px;
 }
+
+/* Footer */
+.footer {
+    height: 210px;
+    background-image: url('/assets/images/footer/footer-wave.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
